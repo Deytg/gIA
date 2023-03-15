@@ -1,0 +1,65 @@
+.m5 {
+    width: 90px;
+    height: 80px;
+}
+.b8 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-decoration:underline;
+}
+header {
+    color:darkgrey;
+}
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 45px;
+}
+nav a {
+    text-decoration: none;
+    font-size: 24px;
+    color: white;
+    border: 5px solid red;
+    border-radius: 10px;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav {
+    text-align: center;
+    padding: 15px;
+}
+.g4 {
+    width: 50px;
+    height: 50px;
+}
+img {
+    width: 200px;
+    height: 150px;
+    display: block;
+    margin-top: 10px;  
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    background-attachment: fixed;
+    background: url(https://phonoteka.org/uploads/posts/2021-04/1619809501_3-phonoteka_org-p-fon-dlya-magazina-igr-3.jpg)
+}
+.i8 {
+    font-size: 30px ;
+    text-align: center;
+    margin-top: 10px;
+}
+.m5 {
+    display: inline;
+}
+.b2 {
+    font-size: 24px;
+}
+footer p {
+    color: white; 
+    font-size: 24px;
+}
+.g8 {
+    width: 50px;
+    height: 50px;
+}
